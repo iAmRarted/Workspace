@@ -1,0 +1,9 @@
+package ejercicio1;
+
+public class Ejercicio1 {
+	public static void main(String[] args) {
+		int n = Consola.leeInt();
+		int m = Consola.leeInt();
+		float[][] notas = new float[n][m];
+	}
+}
