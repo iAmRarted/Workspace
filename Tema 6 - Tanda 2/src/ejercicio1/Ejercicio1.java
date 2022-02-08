@@ -31,7 +31,11 @@ public class Ejercicio1 {
 		
 		ver(notas);
 
+<<<<<<< HEAD
 		System.out.println("Izan maricón");
 		System.out.println("Ejjeje");
+=======
+		System.out.println("Izan maricón sisoy");
+>>>>>>> 68d565e750279a5deabe3d5eaa74dd29d100d8ac
 	}
 }
