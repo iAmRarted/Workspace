@@ -30,7 +30,5 @@ public class Ejercicio1 {
 		cargar(notas);
 		
 		ver(notas);
-		
-		System.out.println("Prueba en la main");
 	}
 }
