@@ -31,8 +31,6 @@ public class Ejercicio1 {
 		
 		ver(notas);
 
-		System.out.println("Izan maricón");
-		System.out.println("Ejjeje");
 		System.out.println("Izan maricón sisoy");
 		System.out.println("Que no coño");
 	}
