@@ -31,6 +31,6 @@ public class Ejercicio1 {
 		
 		ver(notas);
 
-		System.out.println("Izan maricón");
+		System.out.println("Izan maricón sisoy");
 	}
 }
