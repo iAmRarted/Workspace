@@ -126,22 +126,16 @@ public class Matriz1
 		}
 		return transpuesta;
 	}
-<<<<<<< HEAD
-=======
 
 	public void setArrayIJ(int i, int j, int n)
 	{
 		this.array[i][j]=n;
 	}
->>>>>>> 16be8fb445a045625ca4e31443fbe8c95e4ff4c3
 	
 	public int[][] getArray() 
 	{
 		return array;
-<<<<<<< HEAD
-=======
 		
->>>>>>> 16be8fb445a045625ca4e31443fbe8c95e4ff4c3
 	}
 	
 }
