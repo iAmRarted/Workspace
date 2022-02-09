@@ -15,7 +15,6 @@ public class Consola {
 		try {
 			x = Byte.valueOf(in.readLine());
 		} catch (NumberFormatException | IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}  
 		return x;
@@ -29,7 +28,6 @@ public class Consola {
 		try {
 			x = Short.valueOf(in.readLine());
 		} catch (NumberFormatException | IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}  
 		return x;
@@ -43,7 +41,6 @@ public class Consola {
 		try {
 			x = Integer.valueOf(in.readLine());
 		} catch (NumberFormatException | IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}  
 		return x;
@@ -57,7 +54,6 @@ public class Consola {
 		try {
 			x = Long.valueOf(in.readLine());
 		} catch (NumberFormatException | IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}  
 		return x;
@@ -72,7 +68,6 @@ public class Consola {
 		try {
 			x = Float.valueOf(in.readLine());
 		} catch (NumberFormatException | IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}  
 		return x;
@@ -86,7 +81,6 @@ public class Consola {
 		try {
 			x = Double.valueOf(in.readLine());
 		} catch (NumberFormatException | IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}  
 		return x;
@@ -100,7 +94,6 @@ public class Consola {
 		 try {
 			car=(char)b.read();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		 return car;
@@ -114,7 +107,6 @@ public class Consola {
 		try {
 			str = in.readLine();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		return str;
