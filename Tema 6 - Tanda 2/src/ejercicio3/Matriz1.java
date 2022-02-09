@@ -4,7 +4,7 @@ public class Matriz1 {
 
 	private int [][] arr;
 	private static final int NF=10;
-	private static final int NC=10;
+	private static final int NC=7;
 	
 //	Constructor vacío
 	public Matriz1() {
@@ -114,7 +114,7 @@ public class Matriz1 {
 		this.arr[i][j] = n;
 	}
 	
-	public int[][] getArray() {
+	public int[][] getArr() {
 		return arr;
 		
 	}
