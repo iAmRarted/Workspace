@@ -6,14 +6,14 @@ public class Matriz1 {
 	private static final int NF=10;
 	private static final int NC=7;
 	
-//	Constructor vacío
-	public Matriz1() {
-		this.arr= new int[NF][NC];
-		if(instanceof MatrizCuadrada1) {
+//	Constructor vacï¿½o
+	// public Matriz1() {
+	// 	this.arr= new int[NF][NC];
+	// 	if(instanceof MatrizCuadrada1) {
 			
-		}
-		cargarPorFilas(this.arr);
-	}
+	// 	}
+	// 	cargarPorFilas(this.arr);
+	// }
 	
 //	Constructor con valores
 	public Matriz1(int nf, int nc) {
