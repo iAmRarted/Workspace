@@ -1,8 +1,5 @@
 package ejercicio2;
 
-import ejercicio1.Consola;
-import ejercicio3.Matriz1;
-
 public class Prueba_Matriz1 {
     public static void main(String[] args) {
         Matriz1 m1 = new Matriz1();
