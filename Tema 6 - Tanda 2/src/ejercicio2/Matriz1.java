@@ -42,6 +42,19 @@ public class Matriz1
 		}
 	}
 	
+	public void ver()
+	{
+		for (int i = 0; i < array.length; i++)
+		{
+			System.out.println();
+			for (int j = 0; j < array[i].length; j++)
+			{
+				System.out.print(this.array[i][j]+"\t");
+			}
+			System.out.println();
+		}
+	}
+	
 	public static void verOtr(int[][] arr)
 	{
 		for (int i = 0; i < arr.length; i++) 
@@ -113,10 +126,22 @@ public class Matriz1
 		}
 		return transpuesta;
 	}
+<<<<<<< HEAD
+=======
+
+	public void setArrayIJ(int i, int j, int n)
+	{
+		this.array[i][j]=n;
+	}
+>>>>>>> 16be8fb445a045625ca4e31443fbe8c95e4ff4c3
 	
 	public int[][] getArray() 
 	{
 		return array;
+<<<<<<< HEAD
+=======
+		
+>>>>>>> 16be8fb445a045625ca4e31443fbe8c95e4ff4c3
 	}
 	
 }
