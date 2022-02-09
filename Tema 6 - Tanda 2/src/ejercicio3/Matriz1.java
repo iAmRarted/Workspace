@@ -7,13 +7,13 @@ public class Matriz1 {
 	private static final int NC=7;
 	
 //	Constructor vac�o
-	// public Matriz1() {
-	// 	this.arr= new int[NF][NC];
-	// 	if(instanceof MatrizCuadrada1) {
+	public Matriz1() {
+		this.arr= new int[NF][NC];
+		// if(instanceof MatrizCuadrada1) {
 			
-	// 	}
-	// 	cargarPorFilas(this.arr);
-	// }
+		// }
+		cargarPorFilas(this.arr);
+	}
 	
 //	Constructor con valores
 	public Matriz1(int nf, int nc) {
