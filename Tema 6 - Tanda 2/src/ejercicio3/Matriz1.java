@@ -9,6 +9,9 @@ public class Matriz1 {
 //	Constructor vacío
 	public Matriz1() {
 		this.arr= new int[NF][NC];
+		if(instanceof MatrizCuadrada1) {
+			
+		}
 		cargarPorFilas(this.arr);
 	}
 	
@@ -112,6 +115,10 @@ public class Matriz1 {
 
 	public void setArrayIJ(int i, int j, int n) {
 		this.arr[i][j] = n;
+	}
+	
+	public void setArr(int[][] arr) {
+		this.arr = arr;
 	}
 	
 	public int[][] getArr() {

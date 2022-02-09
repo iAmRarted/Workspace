@@ -73,7 +73,6 @@ public class Ejercicio1 {
 //	de suspensos , aprobados, notables y sobresalientes de cada alumno
 	public static float[][] notas(float[][] arr) {
 		float[][] resul = new float[arr.length][4];
-		int suspenso, aprobado, notable, sobresaliente;
 		
 		for(int i = 0; i < arr.length; i++) {
 			
