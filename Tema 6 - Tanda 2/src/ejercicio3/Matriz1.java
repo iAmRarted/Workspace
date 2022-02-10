@@ -6,7 +6,7 @@ public class Matriz1 {
 	private static final int NF=10;
 	private static final int NC=7;
 	
-//	Constructor vac�o
+//	Constructor vacío
 	public Matriz1() {
 		this.arr= new int[NF][NC];
 		// if(instanceof MatrizCuadrada1) {
