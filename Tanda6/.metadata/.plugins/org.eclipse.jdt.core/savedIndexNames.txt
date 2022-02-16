@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+D:\Clase\PROG\Workspace\Tanda6\.metadata\.plugins\org.eclipse.jdt.core
-3090701641.index
-1865797976.index
-2284841917.index
