@@ -57,21 +57,6 @@ public class MatrizCuadrada1 extends Matriz1 {
 	}
 	
 	public boolean esSimetrica() {
-		/*int[][] transpuesta=super.transpuesta();
-		if(super.getArray().length!=transpuesta.length)
-			return false;
-		if(super.getArray()[0].length!=transpuesta[0].length)
-			return false;
-		for (int i = 0; i < transpuesta.length; i++) 
-		{
-			for (int j = 0; j < transpuesta.length; j++)
-			{
-				if(transpuesta[i][j]!=super.getArray()[i][j])
-					return false;
-			}
-		}
-		return true;*/
-		
 		/*Una matriz es simetrica si es igual a su transpuesta*/
 		if(super.getArr()==super.transpuesta()) {
 			return true;
