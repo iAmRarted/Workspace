@@ -127,15 +127,3 @@ public class Matriz1 {
 	}
 	
 }
-
-
-
-
-
-
-
-
-
-
-
-

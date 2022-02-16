@@ -1,0 +1,89 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch OpArray",
+            "request": "launch",
+            "mainClass": "OpArray",
+            "projectName": "Tanda6",
+            "vmArgs": "--enable-preview"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio6",
+            "request": "launch",
+            "mainClass": "Ejercicio6",
+            "projectName": "Tanda6",
+            "vmArgs": "--enable-preview"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicio2",
+            "projectName": "Tanda6",
+            "vmArgs": "--enable-preview"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio7",
+            "request": "launch",
+            "mainClass": "Ejercicio7",
+            "projectName": "Tanda6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio8",
+            "request": "launch",
+            "mainClass": "Ejercicio8",
+            "projectName": "Tanda6_629a9c09"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicio1",
+            "projectName": "Tanda6_629a9c09"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicio2",
+            "projectName": "Tanda6_629a9c09"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio6",
+            "request": "launch",
+            "mainClass": "Ejercicio6",
+            "projectName": "Tanda6_629a9c09"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio7",
+            "request": "launch",
+            "mainClass": "Ejercicio7",
+            "projectName": "Tanda6_629a9c09",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Launch OpArray",
+            "request": "launch",
+            "mainClass": "OpArray",
+            "projectName": "Tanda6_629a9c09",
+            "vmArgs": "--enable-preview"
+        }
+    ]
+}
